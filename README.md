@@ -3,4 +3,4 @@ NodeJS Microservice Architecture Example with realtime project
 
 
 ## Monolithic Architecture:
-NodeJS Microservice Architecture Example with realtime project
+NodeJS Monolithic Architecture Example with realtime project
